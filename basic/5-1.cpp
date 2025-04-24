@@ -27,6 +27,10 @@ int main()
     calculator calc;
 
     vector<double> vec;
+<<<<<<< HEAD
+
+=======
+>>>>>>> c385975cceb01053ce70e2b7e463f1a8ba38c5c3
     vec.push_back(calc.add(2, 3));
     vec.push_back(calc.add(2.3, 3.3));
     vec.push_back(calc.add(2, 3.5));
@@ -36,7 +40,10 @@ int main()
     {
         cout << endl << element;
     }
+<<<<<<< HEAD
+=======
 
+>>>>>>> c385975cceb01053ce70e2b7e463f1a8ba38c5c3
     cout << endl << "Using array:";
 
     double cal[3];
